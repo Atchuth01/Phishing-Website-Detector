@@ -1,29 +1,9 @@
-Certainly! Here’s a **complete detailed README.md** tailored for your phishing detection Streamlit app with explanations of the features, usage, training, and more.
 
----
 
 ````markdown
 # Phishing Detection System
 
 A comprehensive phishing detection web application built with **Streamlit** that detects phishing URLs and phishing websites from screenshots/images using machine learning models.
-
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Model Details](#model-details)  
-- [Dataset](#dataset)  
-- [Training Pipeline](#training-pipeline)  
-- [Project Structure](#project-structure)  
-- [Future Improvements](#future-improvements)  
-- [License](#license)  
-- [Contact](#contact)  
-
----
 
 ## Project Overview
 
@@ -96,7 +76,7 @@ The system helps users identify potentially malicious URLs and websites through 
 ### Run the Streamlit application:
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ````
 
 This will open the app in your default web browser.
@@ -216,9 +196,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration, please open an issue or contact:
 
-**Your Name**
-Email: [your.email@example.com](mailto:your.email@example.com)
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+**Atchuth Vutukuri**
+GitHub: https://github.com/Atchuth01
 
 ---
 
