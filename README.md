@@ -222,11 +222,6 @@ GitHub: [https://github.com/yourusername](https://github.com/yourusername)
 
 ---
 
-Thank you for checking out this phishing detection system! Stay safe online! 🚀🔐
+Thank you for checking out this phishing detection system! Stay safe online! 
 
-```
-
----
-
-Let me know if you want me to help prepare **training scripts README**, or **deployment instructions** next!
 ```
