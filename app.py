@@ -128,6 +128,7 @@
 #                 st.success("✅ Website Appears Safe from Image.")
 
 
+
 # streamlit_app.py
 import streamlit as st
 import joblib
@@ -282,3 +283,4 @@ elif mode == "Image Check":
                 st.error("🚨 Phishing Website Detected from Image!")
             else:
                 st.success("✅ Website Appears Safe from Image.")
+
